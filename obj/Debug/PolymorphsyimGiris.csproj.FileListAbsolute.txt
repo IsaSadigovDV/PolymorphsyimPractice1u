@@ -1,0 +1,8 @@
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\bin\Debug\PolymorphsyimGiris.exe.config
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\bin\Debug\PolymorphsyimGiris.exe
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\bin\Debug\PolymorphsyimGiris.pdb
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\obj\Debug\PolymorphsyimGiris.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\obj\Debug\PolymorphsyimGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\obj\Debug\PolymorphsyimGiris.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\obj\Debug\PolymorphsyimGiris.exe
+C:\Users\Designer\source\repos\P136csharpIntro\PolymorphsyimGiris\obj\Debug\PolymorphsyimGiris.pdb
